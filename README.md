@@ -8,4 +8,6 @@ during the last years I am mostly working in the field of developing smart home 
 [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) and other similar projects.
 
 Feel free to file issues and pull-requests in any of the projects I maintain here. Contact me via
-email at `mail@jens-maus.de` or on twitter at [@MausJens](https://twitter.com/jens-maus/).
+email at `mail@jens-maus.de` or on twitter at [@MausJens](https://twitter.com/jens-maus/). And if you use or
+like some of my open source contributions, please consider [sponsoring](https://github.com/sponsors/jens-maus)
+it here on GitHub.
